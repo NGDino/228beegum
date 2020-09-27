@@ -37,6 +37,7 @@ nav{
   .brand-logo{
       margin-bottom: 10px;
       margin-top: 10px;
+      margin-left: 10px;
   }
   
   /* Position the image container (needed to position the left and right arrows) */
@@ -148,3 +149,15 @@ nav{
     background-color:#26a69a;
     /*Custom Color Of Indicator*/
   }
+
+ .contact{
+padding: 5px; }
+
+ .card-image{
+     margin: 0;
+ }
+
+blockquote{
+     border-color: gray;
+     font-size: 11px;
+    }
